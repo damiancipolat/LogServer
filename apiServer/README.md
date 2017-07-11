@@ -7,4 +7,5 @@ Simplemente hay que clonar el repositorio, luego ejecutar:
 $ npm install
 ```
 - search: Trae resultados random sobre la busqueda de un hotel.
+
 Ej: http://127.0.0.1:5000/search/bue/2017-01-01/2017-02-01/2-0
